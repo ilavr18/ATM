@@ -1,11 +1,11 @@
-package com.atm.command;
+package com.lavrus.atm.command;
 
-import com.atm.CashMachine;
-import com.atm.ConsoleHelper;
-import com.atm.CurrencyManipulator;
-import com.atm.CurrencyManipulatorFactory;
-import com.atm.exception.InterruptOperationException;
-import com.atm.exception.NotEnoughMoneyException;
+import com.lavrus.atm.CashMachine;
+import com.lavrus.atm.ConsoleHelper;
+import com.lavrus.atm.CurrencyManipulator;
+import com.lavrus.atm.CurrencyManipulatorFactory;
+import com.lavrus.atm.exception.InterruptOperationException;
+import com.lavrus.atm.exception.NotEnoughMoneyException;
 
 import java.util.Map;
 import java.util.ResourceBundle;

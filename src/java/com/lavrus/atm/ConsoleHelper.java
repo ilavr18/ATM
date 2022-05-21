@@ -1,6 +1,6 @@
-package com.atm;
+package com.lavrus.atm;
 
-import com.atm.exception.InterruptOperationException;
+import com.lavrus.atm.exception.InterruptOperationException;
 
 import java.io.BufferedReader;
 import java.io.IOException;

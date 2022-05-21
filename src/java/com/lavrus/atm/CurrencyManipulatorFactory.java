@@ -1,4 +1,4 @@
-package com.atm;
+package com.lavrus.atm;
 
 import java.util.Collection;
 import java.util.HashMap;

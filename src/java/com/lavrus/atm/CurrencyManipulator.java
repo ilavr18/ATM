@@ -1,6 +1,6 @@
-package com.atm;
+package com.lavrus.atm;
 
-import com.atm.exception.NotEnoughMoneyException;
+import com.lavrus.atm.exception.NotEnoughMoneyException;
 
 import java.util.*;
 

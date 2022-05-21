@@ -1,4 +1,4 @@
-package com.atm;
+package com.lavrus.atm;
 
 public enum Operation {
     LOGIN,

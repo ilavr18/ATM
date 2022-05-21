@@ -1,9 +1,10 @@
-package com.atm.command;
+package com.lavrus.atm.command;
 
 
-import com.atm.CashMachine;
-import com.atm.ConsoleHelper;
-import com.atm.exception.InterruptOperationException;
+import com.lavrus.atm.CashMachine;
+import com.lavrus.atm.ConsoleHelper;
+import com.lavrus.atm.exception.InterruptOperationException;
+
 import java.util.ResourceBundle;
 
 class ExitCommand implements Command {

@@ -1,7 +1,7 @@
-package com.atm.command;
+package com.lavrus.atm.command;
 
-import com.atm.Operation;
-import com.atm.exception.InterruptOperationException;
+import com.lavrus.atm.Operation;
+import com.lavrus.atm.exception.InterruptOperationException;
 
 import java.util.HashMap;
 import java.util.Map;

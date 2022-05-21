@@ -1,7 +1,7 @@
-package com.atm;
+package com.lavrus.atm;
 
-import com.atm.command.CommandExecutor;
-import com.atm.exception.InterruptOperationException;
+import com.lavrus.atm.command.CommandExecutor;
+import com.lavrus.atm.exception.InterruptOperationException;
 import java.util.Locale;
 
 public class CashMachine {

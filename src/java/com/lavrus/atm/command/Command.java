@@ -1,6 +1,6 @@
-package com.atm.command;
+package com.lavrus.atm.command;
 
-import com.atm.exception.InterruptOperationException;
+import com.lavrus.atm.exception.InterruptOperationException;
 
 interface Command {
     void execute() throws InterruptOperationException, InterruptOperationException;
